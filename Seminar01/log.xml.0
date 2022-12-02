@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056331</millis>
+  <sequence>0</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -18, 51, 34, -5, 54, -55, 59, 12, -92, 65, -20, -65, 63, -28, 22, -77, 42, -68, 83, -69, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056360</millis>
+  <sequence>1</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -18, 51, 34, -5, 54, -55, 59, 12, -92, 65, -20, -65, 63, -28, 22, -77, 42, -68, 83, -69, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056373</millis>
+  <sequence>2</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -18, 34, -5, 51, -55, 54, 12, -92, 59, -20, -65, 63, -28, 22, -77, 42, -68, 65, -69, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056374</millis>
+  <sequence>3</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -18, 34, -5, 51, -55, 54, 12, -92, 59, -20, -65, 63, -28, 22, -77, 42, -68, 65, -69, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056375</millis>
+  <sequence>4</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -18, -5, 34, -55, 51, 12, -92, 54, -20, -65, 59, -28, 22, -77, 42, -68, 63, -69, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056376</millis>
+  <sequence>5</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -18, -5, 34, -55, 51, 12, -92, 54, -20, -65, 59, -28, 22, -77, 42, -68, 63, -69, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056377</millis>
+  <sequence>6</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -18, -5, -55, 34, 12, -92, 51, -20, -65, 54, -28, 22, -77, 42, -68, 59, -69, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056378</millis>
+  <sequence>7</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -18, -5, -55, 34, 12, -92, 51, -20, -65, 54, -28, 22, -77, 42, -68, 59, -69, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056379</millis>
+  <sequence>8</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -18, -55, -5, 12, -92, 34, -20, -65, 51, -28, 22, -77, 42, -68, 54, -69, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056380</millis>
+  <sequence>9</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -18, -55, -5, 12, -92, 34, -20, -65, 51, -28, 22, -77, 42, -68, 54, -69, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056381</millis>
+  <sequence>10</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -55, -18, -5, -92, 12, -20, -65, 34, -28, 22, -77, 42, -68, 51, -69, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056381</millis>
+  <sequence>11</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -55, -18, -5, -92, 12, -20, -65, 34, -28, 22, -77, 42, -68, 51, -69, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056382</millis>
+  <sequence>12</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -55, -18, -92, -5, -20, -65, 12, -28, 22, -77, 34, -68, 42, -69, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056383</millis>
+  <sequence>13</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -55, -18, -92, -5, -20, -65, 12, -28, 22, -77, 34, -68, 42, -69, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056384</millis>
+  <sequence>14</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -55, -92, -18, -20, -65, -5, -28, 12, -77, 22, -68, 34, -69, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056384</millis>
+  <sequence>15</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -55, -92, -18, -20, -65, -5, -28, 12, -77, 22, -68, 34, -69, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056385</millis>
+  <sequence>16</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -92, -55, -20, -65, -18, -28, -5, -77, 12, -68, 22, -69, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056386</millis>
+  <sequence>17</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-62, -92, -55, -20, -65, -18, -28, -5, -77, 12, -68, 22, -69, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056387</millis>
+  <sequence>18</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -62, -55, -65, -20, -28, -18, -77, -5, -68, 12, -69, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056388</millis>
+  <sequence>19</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -62, -55, -65, -20, -28, -18, -77, -5, -68, 12, -69, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056389</millis>
+  <sequence>20</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -62, -65, -55, -28, -20, -77, -18, -68, -5, -69, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056390</millis>
+  <sequence>21</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -62, -65, -55, -28, -20, -77, -18, -68, -5, -69, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056391</millis>
+  <sequence>22</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -65, -62, -55, -28, -77, -20, -68, -18, -69, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056392</millis>
+  <sequence>23</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -65, -62, -55, -28, -77, -20, -68, -18, -69, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056393</millis>
+  <sequence>24</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -65, -62, -55, -77, -28, -68, -20, -69, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056393</millis>
+  <sequence>25</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -65, -62, -55, -77, -28, -68, -20, -69, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056394</millis>
+  <sequence>26</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -65, -62, -77, -55, -68, -28, -69, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056395</millis>
+  <sequence>27</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -65, -62, -77, -55, -68, -28, -69, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056397</millis>
+  <sequence>28</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -65, -77, -62, -68, -55, -69, -28, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056398</millis>
+  <sequence>29</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -65, -77, -62, -68, -55, -69, -28, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056399</millis>
+  <sequence>30</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -77, -65, -68, -62, -69, -55, -28, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056399</millis>
+  <sequence>31</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -77, -65, -68, -62, -69, -55, -28, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056400</millis>
+  <sequence>32</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -77, -68, -65, -69, -62, -55, -28, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056400</millis>
+  <sequence>33</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -77, -68, -65, -69, -62, -55, -28, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056401</millis>
+  <sequence>34</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -77, -68, -69, -65, -62, -55, -28, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056402</millis>
+  <sequence>35</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -77, -68, -69, -65, -62, -55, -28, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056402</millis>
+  <sequence>36</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -77, -69, -68, -65, -62, -55, -28, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056403</millis>
+  <sequence>37</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -77, -69, -68, -65, -62, -55, -28, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056404</millis>
+  <sequence>38</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -77, -69, -68, -65, -62, -55, -28, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+<record>
+  <date>2022-12-02T16:50:56</date>
+  <millis>1669989056404</millis>
+  <sequence>39</sequence>
+  <logger>Seminar02.task2</logger>
+  <level>INFO</level>
+  <class>Seminar02.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>mas [-92, -77, -69, -68, -65, -62, -55, -28, -20, -18, -5, 12, 22, 34, 42, 51, 54, 59, 63, 65, 83, 90]</message>
+</record>
+</log>
